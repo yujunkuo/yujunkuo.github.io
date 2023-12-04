@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 郭宇雋
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yu Jun Kuo
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yu Jun
+last_name: Kuo
 
 # Status emoji
 status:
